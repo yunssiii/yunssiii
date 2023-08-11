@@ -1,5 +1,9 @@
 # <p align="center">Hello, Yunha👋</p> 
-<h3 align="center">I'm growing...</h3>
+<h3 align="center">
+	I'm growing...
+	<br>
+	(￣y▽￣)╭ Ohohoho.....
+</h3>
 <br/>
 <div align=center>
 	<h4>📚 Tech Stack 📚</h4>
