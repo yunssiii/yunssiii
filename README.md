@@ -1,6 +1,5 @@
 # <p align="center">Hello, Yunha👋</p> 
 <h3 align="center">
-	안녕하세요, 성장하는 개발자 황윤하입니다.<br><br><br>
 	Tadadadada~!<br><br>
 	   ∧,,∧<br>
 	　(∩`・ω・)<br>
