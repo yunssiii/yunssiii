@@ -29,7 +29,8 @@
 * visual studio code
 
 <h4>🎨 Project 🎨</h4>
-* <a href="">모임통장 관리 서비스, 크루즈</a>
+
+* <a href="https://yunssiii.notion.site/85921a7bdc5b463cbfb7b814e22ca447?pvs=4">모임통장 관리 서비스, 크루즈</a>
 
 <h4>🤝 Connect 🤝</h4>
 
