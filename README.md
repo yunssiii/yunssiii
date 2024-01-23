@@ -28,7 +28,10 @@
 * intellij
 * visual studio code
 
-<h4>🎨 Connect 🎨</h4>
+<h4>🎨 Project 🎨</h4>
+* <a href="">모임통장 관리 서비스, 크루즈</a>
+
+<h4>🤝 Connect 🤝</h4>
 
 `email` hchdbsgk@naver.com <br/>
 `notion` <a href="https://yunssiii.notion.site/Hello-Yunha-005847b898fc46b485078cf37278dacf?pvs=4">Hello Yunha👋</a>
