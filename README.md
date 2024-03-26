@@ -51,6 +51,6 @@
 <h3>🤝 Connect 🤝</h3>
 
 `email` hchdbsgk@naver.com <br/>
-`notion` <a href="https://yunssiii.notion.site/Yunha-s-PORTFOLIO-005847b898fc46b485078cf37278dacf?pvs=4">👋Yunha's PORTFOLIO</a>
+`notion` <a href="https://yunssiii.notion.site/Yunha-s-PORTFOLIO-005847b898fc46b485078cf37278dacf?pvs=4">println("황윤하 포트폴리오");</a>
 
 
