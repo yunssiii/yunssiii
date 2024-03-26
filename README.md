@@ -44,10 +44,6 @@
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-<h3>🎨 Project 🎨</h3>
-
-<a href="https://yunssiii.notion.site/3e8eec91a63543599f2dbb207360f8b9?pvs=4">모임통장 관리 서비스 [크루즈]</a>
-
 <h3>🤝 Connect 🤝</h3>
 
 `email` hchdbsgk@naver.com <br/>
